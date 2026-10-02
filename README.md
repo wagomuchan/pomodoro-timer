@@ -4,4 +4,6 @@
 スクラムとチーム開発でのGit/GitHub運用を練習するためのプロジェクトです。
 
 ## 使い方
-（開発中）
+次のURLを開くと、25分のタイマーが自動で始まります。
+
+https://wagomuchan.github.io/pomodoro-timer/
